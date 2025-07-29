@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Dell XPS 13",
+      "email": "dell@xps.com",
+      "import_date": "2024-03-15",
+      "quantity": "101",
+      "category": "4"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15 Pro",
+      "email": "apple@iphone.com",
+      "import_date": "2024-02-20",
+      "quantity": 5,
+      "category": 2
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S24",
+      "email": "samsung@galaxy.com",
+      "import_date": "2024-01-10",
+      "quantity": 15,
+      "category": 2
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "email": "sony@headphones.com",
+      "import_date": "2024-04-05",
+      "quantity": 8,
+      "category": 3
+    },
+    {
+      "id": 5,
+      "name": "MacBook Pro 14 M3",
+      "email": "apple@macbook.com",
+      "import_date": "2024-02-25",
+      "quantity": 7,
+      "category": 1
+    },
+    {
+      "id": 6,
+      "name": "Asus ROG Strix G16",
+      "email": "asus@rog.com",
+      "import_date": "2024-03-30",
+      "quantity": 12,
+      "category": 1
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Redmi Note 12",
+      "email": "xiaomi@redmi.com",
+      "import_date": "2024-01-18",
+      "quantity": 20,
+      "category": 2
+    },
+    {
+      "id": 8,
+      "name": "Google Pixel 7",
+      "email": "google@pixel.com",
+      "import_date": "2024-02-10",
+      "quantity": 9,
+      "category": 2
+    },
+    {
+      "id": 9,
+      "name": "Bose QuietComfort 45",
+      "email": "bose@audio.com",
+      "import_date": "2024-03-05",
+      "quantity": 6,
+      "category": 3
+    },
+    {
+      "id": 10,
+      "name": "JBL Charge 5",
+      "email": "jbl@speaker.com",
+      "import_date": "2024-04-12",
+      "quantity": 18,
+      "category": 3
+    },
+    {
+      "id": 11,
+      "name": "Sony PlayStation 5",
+      "email": "sony@ps5.com",
+      "import_date": "2024-02-22",
+      "quantity": 4,
+      "category": 4
+    },
+    {
+      "id": 12,
+      "name": "Xbox Series X",
+      "email": "microsoft@xbox.com",
+      "import_date": "2024-03-08",
+      "quantity": 6,
+      "category": 4
+    },
+    {
+      "id": 13,
+      "name": "Nintendo Switch OLED",
+      "email": "nintendo@switch.com",
+      "import_date": "2024-01-29",
+      "quantity": 10,
+      "category": 4
+    },
+    {
+      "name": "test",
+      "email": "test",
+      "import_date": "3222-12-10",
+      "quantity": "20",
+      "category": 2,
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 3,
+      "name": "Tai nghe & Loa"
+    },
+    {
+      "id": 4,
+      "name": "Máy chơi game"
+    }
+  ]
+}
