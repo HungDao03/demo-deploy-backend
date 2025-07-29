@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e5b8d65-3a08-411b-a400-fd6c1d6d9133" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/controller/RoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/controller/RoomTypeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/model/RoomStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/model/RoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/model/UserPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/repo/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/repo/RoomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/repo/RoomTypeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/repo/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/security/CustomerSuccessHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/security/SercurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/security/SercurityInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/service/IGenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/service/room/IRoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/service/room/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/service/roomtype/IRoomTypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/service/roomtype/RoomTypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/service/user/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/java/com/hoteltest/service/user/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/dashboard/admin-dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/employees/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/employees/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/employees/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/room/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/room/room-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/room/room.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/roomtype/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/roomtype/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/admin/roomtype/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/header/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/user/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-test/src/main/resources/templates/user/rooms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testupload-file/src/main/java/com/testuploadfile/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testupload-file/src/main/java/com/testuploadfile/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testupload-file/src/main/java/com/testuploadfile/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testupload-file/src/main/java/com/testuploadfile/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testupload-file/src/main/resources/templates/create-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testupload-file/src/main/resources/templates/product-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testupload-file/src/main/resources/templates/success.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HungDao03&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HungDao03/demo-deploy-backend.git",
+    "accountId": "6fedaaef-9a48-4192-8d6b-3abce61bb997"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2v7X7iCMSElIE9m2yEoBgN5YYl3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/daohu/Desktop/MD6/endmodul5/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e5b8d65-3a08-411b-a400-fd6c1d6d9133" name="Changes" comment="" />
+      <created>1743496920825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743496920825</updated>
+      <workItem from="1743496921879" duration="650000" />
+      <workItem from="1743497600376" duration="110000" />
+      <workItem from="1743498033632" duration="36000" />
+      <workItem from="1743498087240" duration="24000" />
+      <workItem from="1743501991758" duration="613000" />
+      <workItem from="1743517051147" duration="72000" />
+      <workItem from="1743517200362" duration="442000" />
+      <workItem from="1743672922454" duration="1328000" />
+      <workItem from="1743690122846" duration="1748000" />
+      <workItem from="1743692477495" duration="810000" />
+      <workItem from="1748100570680" duration="349000" />
+      <workItem from="1748224260290" duration="17000" />
+      <workItem from="1753770352397" duration="705000" />
+      <workItem from="1753776554973" duration="7000" />
+      <workItem from="1753776590189" duration="60000" />
+      <workItem from="1753777267773" duration="6000" />
+      <workItem from="1753777285478" duration="22000" />
+      <workItem from="1753777896010" duration="6000" />
+      <workItem from="1753777915917" duration="52000" />
+      <workItem from="1753777985817" duration="2961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
